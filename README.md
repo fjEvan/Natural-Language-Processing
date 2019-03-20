@@ -5,6 +5,7 @@ Dataset: Womens Clothing E-Commerce Reviews
 
 Data cleaning, Tokenisation, Vectorisation
 Bag-of-words: for SVM and Naïve Bayes
+
 Word-embedding (GloVe): for RNN
 
 Applied three models on two classifiers:
