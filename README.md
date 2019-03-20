@@ -4,11 +4,13 @@ An NLP project: Sentiment Analysis on textual data
 Dataset: Womens Clothing E-Commerce Reviews
 
 Data cleaning, Tokenisation, Vectorisation
+
 Bag-of-words: for SVM and Naïve Bayes
 
 Word-embedding (GloVe): for RNN
 
 Applied three models on two classifiers:
+
 Three underlying models: SVM, Naïve Bayes, Bidirectional RNN (LSTM)
 
 Two classifiers:
